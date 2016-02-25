@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|e0d38414-eab5-4cd2-a070-219add8ef934
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|22c230ee-0123-418b-8516-5b395c5d9af7
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|44e42a83-c891-4cde-bc25-82c17a5c95e4
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|2e4f94b2-f68f-4b54-919a-ab4205c71426
+C:\Users\Joe\Desktop\831_avionics\penetrator_fsw\penetrator_fsw.cydsn\penetrator_fsw.cyprj|a8894f46-9f4a-4184-9736-8ab8b5695955
